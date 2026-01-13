@@ -45,12 +45,18 @@ O projeto permite cadastrar autores, livros e usuários, além de realizar empr�
 ---
 
 ## 📂 Estrutura do Projeto
+
 src/main/java/com/biblioteca
 │
 ├── cli # Menus e interface via terminal
+
 ├── daos # Interfaces DAO
+
 ├── entity # Implementações DAO 
+
 ├── models # Models
+
 ├── services # Regras de negócio
+
 ├── factorys # Conexão com banco de dados
 
